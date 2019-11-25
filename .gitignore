@@ -1,0 +1,12 @@
+data/*
+*.pyc
+*~
+.idea/*
+*.so
+*.o
+logs/*
+output/*
+lib/build
+lib/faster_rcnn.egg-info
+images/*
+.vscode
